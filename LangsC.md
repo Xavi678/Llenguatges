@@ -25,18 +25,38 @@ Tret d'una pàgina web que ha fet un estudi de recerca dels llenguatges més pop
 		
 		
 	-Tipus de variables:
+	
+	
 		int,bool,char,float,char[],int[],float[],struct
+		
+		
 	-Bucles:
+	
+	
 		for(index,conidició,augmentar/disminuir index){
+		
+		
 		}
+		
+		
 		definir index
+		
+		
 		while(condició){
 		
 		augmentar/disminiur index
+		
+		
 		}
 	-condicions
+	
+	
 		if(condició){
+		
+		
 		}else if(condició){
+		
+		
 		
 		}else{
 		}
