@@ -163,6 +163,7 @@ El JAVA és el llenguatge de programació més important actualment i dels més 
 
 - Llenguatges de Programació Orientat a Objectes
   1. JAVA
+  	-Java és un llenguatge de programació POO que es va crear l'any 1996, com una eina de programació per ser usada en un projecte 		de set-top-box
   2. C++
   3. C#
   4. PYTHON
