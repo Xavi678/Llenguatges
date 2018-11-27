@@ -19,7 +19,11 @@ Tret d'una pàgina web que ha fet un estudi de recerca dels llenguatges més pop
  - Codi d'exemple:
 
 	-Mostrar per pantalla:
+	
+	
         	printf("Hello world");
+		
+		
 	-Tipus de variables:
 		int,bool,char,float,char[],int[],float[],struct
 	-Bucles:
