@@ -2,16 +2,16 @@
 
 Els 10 llenguatges de programació més utilitzats són:
 
-+ JAVA
-+ PYTHON
-+ JAVASCRIPT
-+ C++
-+ C#
++ JavaScript
++ Java
++ Python
++ TypeScript
 + PHP
-+ PERL
-+ SWIFT
-+ R
-+ RUST
++ Ruby on Rails
++ Elixir
++ Go
++ C#
++ Swift
 
  El c és un llenguatge molt utilitzat actualment, creat l'any 1972 que s'utilitzava per crear Sistemes Operatius.
  - Codi d'exemple:
