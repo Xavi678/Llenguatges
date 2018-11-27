@@ -163,13 +163,10 @@ El JAVA és el llenguatge de programació més important actualment i dels més 
 
 - Llenguatges de Programació Orientat a Objectes
   1. JAVA: És un llenguatge de POO, molt utilitzat actualment que es va crear l'any 1996 com una eina de programació per ser usada en un 	projecte de set-top-box
-  2. C++
-  3. C#
-  4. PYTHON
-  5. OBJECTIVE-C
+  2. C++: És un llenguatge de POO, molt utilitzat actualment que va ser creat l'any 1983 per introduir el POO al C, és una extensió del 	llenguatge de programació C.
+  3. C#: És un llenguatge de POO, molt utilitzat actualment que va ser creat l'any 2002 per Microsoft per implementar-l'ho a la 		plataforma .NET, deriva dels llenguatges C/C++, i és similar a JAVA.
+ 
 - Llenguatges de Programació Orientats a Servidors
-  1. ASP .NET
-  2. PHP
-  3. JavaScript
-  4. RUBY
-  5. JSP
+  1. ASP .NET C# : És un entorn d'aplicació web, que va ser creat l'any 2002, per MICROSOFT, per dissenyar pàgines web, fa servir el 		llenguatge de programació C#.
+  2. PHP : És un llenguatge d'scripting, que s'executa al cantó del servidor i serveix per crear pàgines web de forma dinàmica.
+  3. JSP : És un llenguatge de programació que s'executa al cantó del servidor i serveix per crear pàgines web de forma dinàmica, és 		semblant al PHP, però aquest pot introduir llenguatge java.
