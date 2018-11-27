@@ -29,7 +29,8 @@ Els 10 llenguatges de programació més utilitzats són:
 
   El Javascript és un llenguatge que s'utilitza per la creació de pàgines webs, va néixer l'any 1995 per tal d'utilitzar com a eina per crear aplicacions web dinàmiques.
 - Codi d'exemple
-<!--  <!DOCTYPE html>
+'''javascript
+ <!DOCTYPE html>
 <html>
 <body>
 
@@ -42,8 +43,8 @@ Clica per obtenir la data actual</button>
 <p id="demo"></p>
 
 </body>
-</html> -->
-
+</html> 
+'''
 El JAVA és el llenguatge de programació més important actualment i dels més utilitzats, va sorgir l'any 1996, com una einada usada en un projecte de programació.
 - Codi d'exemple
 -public class Factorial {
